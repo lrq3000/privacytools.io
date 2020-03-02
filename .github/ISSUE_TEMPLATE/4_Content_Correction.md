@@ -1,8 +1,8 @@
 ---
-name: "❌ Software Removal"
-about: Suggest the removal of outdated, insecure, or otherwise bad software.
-title: "❌ Software Removal | "
-labels: ❌ software removal
+name: "📝 Content Correction"
+about: Report any inaccurate, incorrect, or outdated information on the website.
+title: "📝 Correction | "
+labels: 📝 correction
 ---
 
 ## Description
